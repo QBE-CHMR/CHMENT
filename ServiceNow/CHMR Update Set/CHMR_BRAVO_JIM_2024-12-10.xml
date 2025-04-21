@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-04-17 15:12:33">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="chmr_bravo">bd02668347125610e010d5a5536d43a7</application>
+<base_update_set display_value=""/>
+<completed_by display_value="Taye Daramola">506b669547e29e10e010d5a5536d43d1</completed_by>
+<completed_on>2024-12-18 16:57:28</completed_on>
+<description>contains the works of chmr_bravo for all we done.</description>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>chmr_bravo_jim</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>complete</state>
+<sys_created_by>Jim.Lee</sys_created_by>
+<sys_created_on>2024-12-10 16:53:55</sys_created_on>
+<sys_id>91e6eec747125610e010d5a5536d43f5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>Taye.Daramola</sys_updated_by>
+<sys_updated_on>2024-12-18 16:57:28</sys_updated_on>
+</sys_update_set>
+</unload>
